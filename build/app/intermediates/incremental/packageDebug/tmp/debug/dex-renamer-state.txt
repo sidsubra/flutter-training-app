@@ -1,0 +1,4 @@
+#Fri Apr 26 14:54:17 IST 2024
+base.0=/Users/sidharth-12354/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Flutter Projects/8-Training App/training_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
